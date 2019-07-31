@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# everything that's an output
+out_*
+Frauen*
+superbilder*
+
+# scripts for other calculations, not needed for the GG comparison
+analyze_entscheidungen.R
+Frauen BVerfG.R
