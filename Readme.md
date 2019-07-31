@@ -42,4 +42,4 @@ Thanks to [Benjamin Heisig](https://github.com/bheisig) for his help with the Gr
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License, see [LICENSE](LICENSE)
