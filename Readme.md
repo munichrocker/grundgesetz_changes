@@ -2,6 +2,10 @@
 
 This repo provides the data to make a section-by-section comparison between different versions of the German Grundgesetz ("basic law"). It was used to generate the article ["Wie sich das Grundgesetz in 70 Jahren verändert hat"](https://www.sueddeutsche.de/politik/grundgesetz-aenderungen-grafikanalyse-1.4429949) at Sueddeutsche Zeitung, ceberating the Grundgesetz's 70th anniversary in 2019.
 
+### tl;dr
+
+> Get the data for the two versions from the [grundgesetz-dev](https://github.com/c3e/grundgesetz-dev) repo, then use the Markdown version below, after that run `analyze_text.R`.
+
 ## The data
 
 Can be accessed via the [grundgesetz-dev](https://github.com/c3e/grundgesetz-dev) repo, which aims to document all changes to the original text in a version control system.
